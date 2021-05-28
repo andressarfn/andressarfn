@@ -18,8 +18,8 @@
 
 <h3 align="center"> Redes sociais <h3>
 
-📸 [Instagram](https://instagram.com/andressarfn) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/andressarfn/) <br>
+## 📸 [Instagram](https://instagram.com/andressarfn) <br>
+## 💼 [LinkedIn](https://www.linkedin.com/in/andressarfn/) <br>
 
 <!--
 **andressarfn/andressarfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
