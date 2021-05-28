@@ -16,7 +16,7 @@ Engenheira civil em curso de **Sistemas para Internet**, com a perspectiva de mu
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="center"> Redes sociais <h3>
+<h3 align="center"> Redes sociais </h3>
 
 📸 [Instagram](https://instagram.com/andressarfn)
 💼 [LinkedIn](https://www.linkedin.com/in/andressarfn/)
