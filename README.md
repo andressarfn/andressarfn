@@ -18,5 +18,5 @@ Engenheira civil em curso de **Sistemas para Internet** com perspectiva de mudan
 
 <h3 align="center"> Redes sociais <h3>
 
-<h3  aling="center">📸 [Instagram](https://instagram.com/andressarfn)</h3> 
-<h3  aling="center">💼 [LinkedIn](https://www.linkedin.com/in/andressarfn/)</h3> 
+📸 [Instagram](https://instagram.com/andressarfn)
+💼 [LinkedIn](https://www.linkedin.com/in/andressarfn/)
