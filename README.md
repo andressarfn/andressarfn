@@ -13,7 +13,6 @@ Engenheira civil em curso de **Sistemas para Internet**, com a perspectiva de mu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/Reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
 
 <h3 align="center"> Redes sociais </h3>
