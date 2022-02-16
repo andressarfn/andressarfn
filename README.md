@@ -1,6 +1,6 @@
 <h2 align="center"> Andressa Ribeiro 👩‍💻👋</h2>
 
-Engenheira civil em curso de **Sistemas para Internet**, com a perspectiva de mudança na carreira. Sou desenvolvedora extremamente motivada, apaixonada por tecnologia e inovação, busco sempre evoluir minhas habilidades para meu crescimento profissional. 🚀
+Engenheira civil em curso de **Sistemas para Internet**, onde descobri minha paixão e motivação por tecnologia e inovação, sempre busco evoluir minhas habilidades para o meu crescimento profissional como Engenheira de Software. Sou curiosa, tenho boa comunicação, vontade de aprender e de passar adiante o pouco conhecimento que tenho. 🚀
 
 <h3 align="center"> Tecnologias e linguagens<h3>
 
